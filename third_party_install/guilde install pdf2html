@@ -1,0 +1,2 @@
+chmod -777 pdf2html.tar.gz
+tar xvzf pdf2html.tar.gz

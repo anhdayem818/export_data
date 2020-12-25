@@ -16,7 +16,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-
+/third_party_install/pdf2html/
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
